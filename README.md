@@ -4,7 +4,6 @@
 
 通过爬取相关信息为json格式，并将其保存到本地，放置在与.jar文件相同的目录下，以便后续使用。
 
-![image-20241129090232703](C:\Users\15751\AppData\Roaming\Typora\typora-user-images\image-20241129090232703.png)
 
 
 
